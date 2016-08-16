@@ -1,0 +1,19 @@
+import java.util.List
+
+entity Person {
+
+	friends: List<Person> 
+	
+	op getName() : String {
+		return name;
+	}
+	
+	op getFriends() {
+		return friends
+	}
+}
+
+	
+package FFF {
+	qname: String
+}

@@ -1,0 +1,27 @@
+import org.eclipse.xtext.xbase.lib.util.ToStringBuilder;
+
+@SuppressWarnings("all")
+public class eee {
+  public eee() {
+  }
+  
+  public eee(final org.eclipse.xtext.xbase.lib.Procedures$Procedure1 initializer) {
+    initializer.apply(this);
+  }
+  
+  private String ValidID;
+  
+  public String getValidID() {
+    return this.ValidID;
+  }
+  
+  public void setValidID(final String ValidID) {
+    this.ValidID = ValidID;
+  }
+  
+  @Override
+  public String toString() {
+    String result = new ToStringBuilder(this).addAllFields().toString();
+    return result;
+  }
+}

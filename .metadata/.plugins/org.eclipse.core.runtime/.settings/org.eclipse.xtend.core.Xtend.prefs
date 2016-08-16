@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.default.color=248,254,255
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.keyword.color=149,247,255
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.number.color=255,183,246
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.string.color=253,255,145
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.deprecated.members.color=205,206,208
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.extension.method.invacation.color=255,198,199
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.active.annotation.color=255,218,219
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.multi.line.comment.color=7,255,7
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.single.line.comment.color=19,255,4

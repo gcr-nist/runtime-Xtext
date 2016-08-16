@@ -1,0 +1,5 @@
+entity Person { 
+	op getName() : String {
+		
+	}
+}

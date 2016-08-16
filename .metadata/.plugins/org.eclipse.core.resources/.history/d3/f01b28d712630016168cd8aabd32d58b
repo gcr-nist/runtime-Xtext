@@ -1,0 +1,13 @@
+entity Person {
+
+	friends: List<Feature> 
+	
+	op getName() : String {
+		return name;
+	}
+}
+
+	
+package FFF {
+	qname: String
+}

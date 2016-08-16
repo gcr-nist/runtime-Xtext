@@ -1,0 +1,21 @@
+import org.eclipse.xtext.xbase.lib.util.ToStringBuilder;
+
+@SuppressWarnings("all")
+public class Person {
+  public Person() {
+  }
+  
+  public Person(final org.eclipse.xtext.xbase.lib.Procedures$Procedure1 initializer) {
+    initializer.apply(this);
+  }
+  
+  public String getName() {
+    return this.getName();
+  }
+  
+  @Override
+  public String toString() {
+    String result = new ToStringBuilder(this).addAllFields().toString();
+    return result;
+  }
+}

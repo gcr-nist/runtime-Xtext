@@ -1,0 +1,4 @@
+entity eee { 
+	ValidID: String
+	
+}

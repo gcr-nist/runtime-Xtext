@@ -1,0 +1,15 @@
+import java.util.List
+
+entity Person {
+
+	name: String
+	friends: List<Person> 
+	
+	op getName() : String {
+		return name;
+	}
+	
+	op getFriends() :  List<Person>  {
+		return friends
+	}
+}
